@@ -1,0 +1,3 @@
+¿Como puedo replico el proble?
+como se genero el error en que momento, al hacer que cosa...........
+¿En que version del programa se presenta el error?
